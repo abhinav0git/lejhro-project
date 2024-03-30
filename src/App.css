@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box !important;
+}
+
+body {
+  font-family: Inter, sans-serif !important;
+  background-color: #e5d4ff !important;
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.p {
+  font-weight: 400 !important;
+  text-align: justify !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .p {
+    font-size: 14px !important;
+  }
+}
