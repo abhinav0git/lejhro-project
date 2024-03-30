@@ -7,3 +7,7 @@ li a {
   justify-content: center;
   color: #ffffff !important;
 }
+.navbar {
+  justify-content: space-evenly !important;
+  /* color: black !important; */
+}
